@@ -14,3 +14,23 @@ h2 {
     color: rgb(20, 20, 20);
     text-align: center
 }
+
+.red-span {
+    color: red
+}
+
+.centered {
+    margin: 0 auto 0 auto;
+    /*this is the same coding as 0 auto 0 auto because the order is margin:top,right,bottom,left
+    margin-left:auto;
+    margin-right:auto;
+*/
+
+    padding: 10px 10px 10px 10px;
+    border: 1px solid;
+    width: 80%
+}
+
+.font {
+    font-weight: 500; font-size: 24px
+}
